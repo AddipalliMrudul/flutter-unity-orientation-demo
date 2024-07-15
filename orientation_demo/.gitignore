@@ -62,3 +62,6 @@ unity/JungleeUnityDemo/Assets/StreamingAssets.meta
 unity/JungleeUnityDemo/Assets/Data_iOS.meta
 unity/JungleeUnityDemo/Assets/Data_WebGL.meta
 unity/JungleeUnityDemo/.vscode
+
+ios/UnityLibrary/
+android/unityLibrary/
