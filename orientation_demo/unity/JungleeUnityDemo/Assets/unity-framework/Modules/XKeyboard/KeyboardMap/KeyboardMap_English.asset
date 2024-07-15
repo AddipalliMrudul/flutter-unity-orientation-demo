@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1372ebcc9ca3f414abc7edaab2531d27, type: 3}
+  m_Name: KeyboardMap_English
+  m_EditorClassIdentifier: 
+  languageCode: EN
+  keyMap:
+  - keyCode: 97
+    keyCharacter: a
+  - keyCode: 98
+    keyCharacter: b
+  - keyCode: 99
+    keyCharacter: c
+  - keyCode: 100
+    keyCharacter: d
+  - keyCode: 101
+    keyCharacter: e
+  - keyCode: 102
+    keyCharacter: f
+  - keyCode: 103
+    keyCharacter: g
+  - keyCode: 104
+    keyCharacter: h
+  - keyCode: 105
+    keyCharacter: i
+  - keyCode: 106
+    keyCharacter: j
+  - keyCode: 107
+    keyCharacter: k
+  - keyCode: 108
+    keyCharacter: l
+  - keyCode: 109
+    keyCharacter: m
+  - keyCode: 110
+    keyCharacter: n
+  - keyCode: 111
+    keyCharacter: o
+  - keyCode: 112
+    keyCharacter: p
+  - keyCode: 113
+    keyCharacter: q
+  - keyCode: 114
+    keyCharacter: r
+  - keyCode: 115
+    keyCharacter: s
+  - keyCode: 116
+    keyCharacter: t
+  - keyCode: 117
+    keyCharacter: u
+  - keyCode: 118
+    keyCharacter: v
+  - keyCode: 119
+    keyCharacter: w
+  - keyCode: 120
+    keyCharacter: x
+  - keyCode: 121
+    keyCharacter: y
+  - keyCode: 122
+    keyCharacter: z
+  - keyCode: 256
+    keyCharacter: 0
+  - keyCode: 257
+    keyCharacter: 1
+  - keyCode: 258
+    keyCharacter: 2
+  - keyCode: 259
+    keyCharacter: 3
+  - keyCode: 260
+    keyCharacter: 4
+  - keyCode: 261
+    keyCharacter: 5
+  - keyCode: 262
+    keyCharacter: 6
+  - keyCode: 263
+    keyCharacter: 7
+  - keyCode: 264
+    keyCharacter: 8
+  - keyCode: 265
+    keyCharacter: 9
+  - keyCode: 46
+    keyCharacter: .
+  - keyCode: 44
+    keyCharacter: ','
+  - keyCode: 64
+    keyCharacter: '@'
+  - keyCode: 35
+    keyCharacter: '#'
+  - keyCode: 36
+    keyCharacter: $
+  - keyCode: 95
+    keyCharacter: _
+  - keyCode: 38
+    keyCharacter: '&'
+  - keyCode: 45
+    keyCharacter: '-'
+  - keyCode: 43
+    keyCharacter: +
+  - keyCode: 40
+    keyCharacter: (
+  - keyCode: 41
+    keyCharacter: )
+  - keyCode: 47
+    keyCharacter: /
+  - keyCode: 42
+    keyCharacter: '*'
+  - keyCode: 34
+    keyCharacter: '"'
+  - keyCode: 39
+    keyCharacter: ''''
+  - keyCode: 58
+    keyCharacter: ':'
+  - keyCode: 59
+    keyCharacter: ;
+  - keyCode: 33
+    keyCharacter: '!'
+  - keyCode: 63
+    keyCharacter: '?'
+  - keyCode: 126
+    keyCharacter: ~
+  - keyCode: 37
+    keyCharacter: '%'
+  - keyCode: 60
+    keyCharacter: <
+  - keyCode: 61
+    keyCharacter: =
+  - keyCode: 62
+    keyCharacter: '>'
+  - keyCode: 91
+    keyCharacter: '['
+  - keyCode: 93
+    keyCharacter: ']'
+  - keyCode: 95
+    keyCharacter: _
+  - keyCode: 96
+    keyCharacter: '`'
+  - keyCode: 94
+    keyCharacter: ^
+  - keyCode: 95
+    keyCharacter: _
+  - keyCode: 123
+    keyCharacter: '{'
+  - keyCode: 125
+    keyCharacter: '}'
+  - keyCode: 124
+    keyCharacter: '|'
+  - keyCode: 32
+    keyCharacter: ' '
+  - keyCode: 13
+    keyCharacter: \n
+  - keyCode: 301
+    keyCharacter: Caps Lock
+  - keyCode: 300
+    keyCharacter: Numlock
+  - keyCode: 8
+    keyCharacter: Backspace

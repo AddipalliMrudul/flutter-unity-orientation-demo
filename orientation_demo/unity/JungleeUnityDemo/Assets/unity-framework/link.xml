@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linker>
+    <assembly fullname="System">
+        <type fullname="System.Reflection" preserve="all" />
+        <type fullname="System.Reflection.*" preserve="all" />
+        <namespace fullname="System.Reflection" preserve="all" />
+        <namespace fullname="System.Reflection.*" preserve="all" />
+    </assembly>
+</linker>

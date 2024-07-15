@@ -1,0 +1,8 @@
+﻿using XcelerateGames.IOC;
+
+namespace {NAMESPACE}
+{
+    public class {CLASS_NAME} : XGModel
+    {
+    }
+}

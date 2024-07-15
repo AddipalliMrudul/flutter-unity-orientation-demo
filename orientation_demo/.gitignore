@@ -42,3 +42,23 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+#unity files
+unity/JungleeUnityDemo/[Ll]ibrary/
+unity/JungleeUnityDemo/[Tt]emp/
+unity/JungleeUnityDemo/[Oo]bj/
+unity/JungleeUnityDemo/[Bb]uild/
+unity/JungleeUnityDemo/[Bb]uilds/
+unity/JungleeUnityDemo/[Ll]ogs/
+unity/JungleeUnityDemo/[Uu]ser[Ss]ettings/
+unity/JungleeUnityDemo/*.csproj
+unity/JungleeUnityDemo/*.sln
+unity/JungleeUnityDemo/Assets/Data_Android
+unity/JungleeUnityDemo/Assets/StreamingAssets
+unity/JungleeUnityDemo/Assets/Data_iOS
+unity/JungleeUnityDemo/Assets/Data_WebGL
+unity/JungleeUnityDemo/Assets/Data_Android.meta
+unity/JungleeUnityDemo/Assets/StreamingAssets.meta
+unity/JungleeUnityDemo/Assets/Data_iOS.meta
+unity/JungleeUnityDemo/Assets/Data_WebGL.meta
+unity/JungleeUnityDemo/.vscode

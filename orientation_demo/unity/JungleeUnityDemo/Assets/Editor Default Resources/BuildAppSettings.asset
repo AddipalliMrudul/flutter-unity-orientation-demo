@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e49e86583e224be99d966e6faca4c90, type: 3}
+  m_Name: BuildAppSettings
+  m_EditorClassIdentifier: 
+  KeyStorePassword: qwerty
+  KeyStoreAliasPassword: qwerty
+  KeyStoreAliasName: jg
+  KeyStoreName: jungleegames.keystore
+  GradleWrapperFileName: gradle-wrapper-5.1.1.jar
+  Scenes:
+  - {fileID: 102900000, guid: b7eadb5ececcc489dab9a56145138725, type: 3}
+  - {fileID: 102900000, guid: 8c9cfa26abfee488c85f1582747f6a02, type: 3}
+  ResourcesFolders: []
+  AssetBundleToIgnore: []
+  _BuildStepsDoc: {fileID: 0}
+  _UpdateVersionHashAPI:
+    _Paths: []
+  _DownloadLocalizationAPI:
+    _Paths: []
+  _S3UploadAPI:
+    _Paths: []
+  _S3UploadAPIV2:
+    _Paths: []
+  _S3CheckFileStatusV1:
+    _Paths: []
+  _S3ReadFile:
+    _Paths: []
+  _BucketName:
+    _Paths: []
+  LocalHostUrl: http://127.0.0.1:5000/

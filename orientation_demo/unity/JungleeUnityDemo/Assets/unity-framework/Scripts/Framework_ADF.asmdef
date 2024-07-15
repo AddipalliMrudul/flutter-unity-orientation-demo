@@ -1,0 +1,31 @@
+{
+    "name": "framework",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "DOTween.Modules",
+        "Unity.RemoteConfig",
+        "endel.nativewebsocket",
+        "websocket-sharp",
+        "Flutteer_ADF",
+        "Flutter_ADF",
+        "UnityEngine.Purchasing",
+        "Purchasing.Common",
+        "",
+        "UnityEngine.Purchasing.Stores",
+        "Unity.Services.Core",
+        "Unity.Services.Core.Environments",
+        "Unity.Notifications.Android",
+        "com.Tivadar.Best.HTTP",
+        "com.Tivadar.Best.WebSockets"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

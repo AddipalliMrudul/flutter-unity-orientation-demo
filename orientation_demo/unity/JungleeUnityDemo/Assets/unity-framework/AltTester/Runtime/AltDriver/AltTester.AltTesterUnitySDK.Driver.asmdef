@@ -1,0 +1,20 @@
+{
+    "name": "AltTester.AltTesterUnitySDK.Driver",
+    "rootNamespace": "",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "NLog.dll",
+        "Newtonsoft.Json.dll",
+        "altwebsocket-sharp.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "AUTOMATION_ENABLED"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

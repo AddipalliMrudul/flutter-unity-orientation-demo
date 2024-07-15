@@ -1,0 +1,13 @@
+﻿using UnityEngine;
+using XcelerateGames.IOC;
+
+namespace {NAMESPACE}
+{
+    public class {CLASS_NAME} : Command
+    {
+        public override void Execute()
+        {
+            base.Execute();
+        }
+    }
+}

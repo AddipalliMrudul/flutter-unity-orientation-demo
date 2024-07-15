@@ -1,0 +1,36 @@
+﻿using System.Collections;
+using UnityEngine;
+using UnityEngine.UI;
+using XcelerateGames.IOC;
+using XcelerateGames.UI;
+using XcelerateGames;
+
+namespace {NAMESPACE}
+{
+     public class {CLASS_NAME} : BaseBehaviour
+     {
+        #region Properties
+        #endregion //Properties
+
+        #region Signals
+        #endregion //Signals
+
+        #region UI Callbacks
+        #endregion //UI Callbacks
+
+        #region Private Methods
+        protected override void Awake()
+        {
+            base.Awake();
+        }
+        
+        protected override void OnDestroy()
+        {
+            base.OnDestroy();
+        }
+        #endregion //Private Methods
+
+        #region Public Methods
+        #endregion //Public Methods
+     }
+}
